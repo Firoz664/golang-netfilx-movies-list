@@ -14,7 +14,7 @@ import (
 	"go.mongodb.org/mongo-driver/mongo/options"
 )
 
-const connectionString = "mongodb+srv://virality-media:virality1234@cluster0.grsxemc.mongodb.net/?retryWrites=true&w=majority"
+const connectionString = "your-mongourl"
 const dbName = "youtube-clone"
 const colName = "watchlist"
 
